@@ -4,3 +4,8 @@ A machine Learning based Multiple linear regression model to predict the rainfal
 
 # Dataset Used
 The dataset used is downloaded from Kaggle and is freely available. The dataset is named as "Austin weather dataset". The dataset is uploaded with the files.
+
+# Methodology
+1.Converting data in to the correct format to conduct experiments.
+2. Make a good analysis of data and observe variation in the patterns of rainfall.
+3. Finally, we try to predict the rainfall by separating data into training and testing. We apply various statistical and machine learning approaches(Multiple Linear Regression) in prediction and make apredictions.
